@@ -9,3 +9,5 @@ Ich bins nur.
 Achso.
 
 asdfqwer
+
+Bug 2342 fixed
